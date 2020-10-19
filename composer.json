@@ -1,0 +1,15 @@
+{
+    "name": "alamin/framework",
+    "description": "Just another simple PHP framework.",
+    "authors": [
+        {
+            "name": "Al-Amin Firdows",
+            "email": "alaminfirdows@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^5.1",
+        "symfony/http-kernel": "^5.1",
+        "symfony/routing": "^5.1"
+    }
+}
